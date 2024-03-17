@@ -48,5 +48,5 @@ Summary
 
 
 ![ ](/assets:img/jhu3.png){:width="200px"} 	
-![ ](/assets:img/University_of_Maryland_seal.svg.png){:width="200px"}
-![Image](/assets:img/kipp_dc.png){:width="200px"}
+![ ](/assets:img/University_of_Maryland_seal.svg.png){:width="100px"}
+![ ](/assets:img/kipp dc.png){:width="200px"}
