@@ -8,6 +8,14 @@
 - B.A., Art History | The University of Maryland, College Park (_May 2017_)
 
 ![MBA](/assets:img/Yale-SOM_exdent (1).jpeg)	 
+![image](/assets:img/jhu3.png)
+![try](/assets:img/kipp dc.png)
+![another](/assets:img/University_of_Maryland_seal.svg.png)
+
+![MBA](/assets/img/Yale-SOM_exdent (1).jpeg)	 
+![image](/assets/img/jhu3.png)
+![try](/assets/img/kipp dc.png)
+![another](/assets/img/University_of_Maryland_seal.svg.png)
 
 ## Professional Experience
 **Marketing Analyst @ Thriving Students Collective (_December 2023 - Present_)**
