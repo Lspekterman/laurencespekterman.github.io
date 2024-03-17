@@ -32,6 +32,19 @@ Summary
 [Data](https://www.mdpi.com/1424-8220/22/11/4240)
 Summary
 
+## About
+Currently seeking a position as a consultant in a collaborative, fast-paced, and challenging environment. I like solving problems using a data driven approach.
+
+I earned my MBA with a focus in Data Analytics at The Yale School of Management in May 2024. I earned my MS Ed in Education Science from Johns Hopkins. I also have a BA from the University of Maryland, College Park.
+
+My professional interests focus broadly on the application of data based decision making in the education and social sector. I am also interested in the relationship between data and marketing strategy (i.e., LTV, Segmentation, Marketing ROI).
+
+When not running analyses, I can usually be found training for a marathon or watching reality TV.
+
+Contact me
+laurencespekterman@gmail.com
+
+
 ## Social
 [![Linkedin](/assets:img/Linkedin-logo-png.png){:width="70px"}](https://www.linkedin.com/in/laurence-spekterman-7601a7153/)
 
