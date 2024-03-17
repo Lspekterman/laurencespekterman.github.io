@@ -33,7 +33,7 @@ Summary
 Summary
 
 ## About
-Currently seeking a position as a consultant in a collaborative, fast-paced, and challenging environment. I like solving problems using a data driven approach.
+Currently seeking a position in data analytics for a collaborative, fast-paced, and challenging environment. I like solving problems using a data driven approach.
 
 I earned my MBA with a focus in Data Analytics at The Yale School of Management in May 2024. I earned my MS Ed in Education Science from Johns Hopkins. I also have a BA from the University of Maryland, College Park.
 
