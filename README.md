@@ -1,4 +1,4 @@
-# Education and Marketing
+# Marketing Analyst
 
 #### Technical Skills: Python, R, CSS, HTML
 
