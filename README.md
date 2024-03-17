@@ -29,13 +29,13 @@
 
 ## Projects
 ### A
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Data](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Summary
 
 
 ### B
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+[Data](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Summary
 
@@ -45,10 +45,6 @@ Summary
 - B
 
 ## Social
-- [Linkedin]((https://www.linkedin.com/in/laurence-spekterman-7601a7153/)https://www.linkedin.com/in/laurence-spekterman-7601a7153/)
 
-- ![ ](/assets:img/jhu3.png){:width="100px"} 	
-- ![ ](/assets:img/University_of_Maryland_seal.svg.png){:width="50px"}
-
-- ![ ](/assets:img/kipp dc.png){:width="70px"}
+[![Linkedin](/assets:img/kipp_dc.png)](https://www.linkedin.com/in/laurence-spekterman-7601a7153/)
 
