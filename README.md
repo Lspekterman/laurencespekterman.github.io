@@ -46,5 +46,5 @@ Summary
 
 ## Social
 
-[![Linkedin](/assets:img/kipp_dc.png)](https://www.linkedin.com/in/laurence-spekterman-7601a7153/)
+[![Linkedin](/assets:img/Linkedin-logo-png.png)](https://www.linkedin.com/in/laurence-spekterman-7601a7153/)
 
