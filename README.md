@@ -3,7 +3,8 @@
 #### Technical Skills: Python, R, CSS, HTML
 
 ## Education
-- ![M.B.A., Data Analytics | Yale School of Management (_May 2024_)](/assets/img/Yale-SOM_exdent (1).jpeg)						       		
+- M.B.A., Data Analytics | Yale School of Management (_May 2024_)
+![MBA](/assets/img/Yale-SOM_exdent (1).jpeg)	         		
 - M.S., Education	| Johns Hopkins University (_May 2021_)	 			        		
 - B.A., Art History | The University of Maryland, College Park (_May 2017_)
 
