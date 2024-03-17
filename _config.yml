@@ -1,5 +1,5 @@
 title: Laurence Spekterman
 logo: /assets:img/circle_headshot.png
-description: Former Teacher, Data Analytics, Marketing
+#description: Former Teacher, Data Analytics, Marketing
 #show_downloads: true
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
