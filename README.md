@@ -33,5 +33,5 @@ Summary
 Summary
 
 ## Linkedin
-[![Linkedin](/assets:img/Linkedin-logo-png.png)](https://www.linkedin.com/in/laurence-spekterman-7601a7153/){:width="60px"}
+[![Linkedin](/assets:img/Linkedin-logo-png.png)]{:width="70px"}(https://www.linkedin.com/in/laurence-spekterman-7601a7153/)
 
