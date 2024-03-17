@@ -4,11 +4,9 @@
 
 ## Education
 
-- Masters of Business Administration | Yale School of Management (_May 2024_)
-
-- Masters of Science in Education	| Johns Hopkins University (_May 2021_)
-       		
-- Bachelors of Arts | The University of Maryland, College Park (_May 2017_)
+- MBA | Yale School of Management (_May 2024_)
+- MS Ed | Johns Hopkins University (_May 2021_)       		
+- BA | The University of Maryland, College Park (_May 2017_)
 
 
 
