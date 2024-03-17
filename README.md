@@ -1,22 +1,37 @@
-#
+# Education and Marketing Data Analyst
 
-###EDUCATION
+#### Technical Skills: Python, R, CSS, HTML
 
-YALE SCHOOL OF MANAGEMENT	New Haven, CT
-Master of Business Administration (MBA)
+## Education
+- ![M.B.A., Data Analytics | Yale School of Management (_May 2024_)](/assets/img/Yale-SOM_exdent (1).jpeg)						       		
+- M.S., Education	| Johns Hopkins University (_May 2021_)	 			        		
+- B.A., Art History | The University of Maryland, College Park (_May 2017_)
 
-JOHNS HOPKINS UNIVERSITY
-Master of Science, Education Studies
+## Professional Experience
+**Marketing Analyst @ Thriving Students Collective (_December 2023 - Present_)**
+- A
+- B
 
-###PROFESSIONAL EXPERIENCE
-Marketing Analytics @ Thriving Students Collective
-- Big impact project
+**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+- A
+- B
 
-Finance Intern @ KIPP DC Public Schools
-- Big impact project
+## Projects
+### A
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Data Analyist @ Capital Preparatory School
-- Big impact project
+Summary
 
-Science Teacher @ Teacher for America
-- Big impact project
+
+### B
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+
+Summary
+
+
+## Talks, Lectures, Other
+- A
+- B
+
+## Social
+- [Linkedin]([https://medium.com/@shawhin](https://www.linkedin.com/in/laurence-spekterman-7601a7153/)https://www.linkedin.com/in/laurence-spekterman-7601a7153/)
