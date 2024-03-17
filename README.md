@@ -14,7 +14,15 @@
 - A
 - B
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+**Finance Inter @ KIPP DC (_May 2023 - September 2023_)** ![ ](/assets:img/kipp dc.png) 	
+- A
+- B
+
+**Data Analyst @ Capital Preperatory School (_August 2020 - September 2022_)**
+- A
+- B
+
+**Science Teacher @ Capital Preperatory School (_August 2020 - September 2022_)**
 - A
 - B
 
