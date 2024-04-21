@@ -24,7 +24,7 @@ BA    | The University of Maryland, College Park (_May 2017_)
 
 ## Project
 ### Marketing Analytics B2B SaaS
-[Data]([https://www.mdpi.com/1424-8220/22/8/3048](https://laurencespekterman.wixsite.com/laurence/marketing-and-analytics))
+((https://laurencespekterman.wixsite.com/laurence/marketing-and-analytics))
 An exploratory study of marketing activity at Thriving Students Collective an innovative startup in the EdTech space, providing professional development for school psychologists and special educators. My goal was to help understand how Thriving Students Collective can use data to improve its email marketing processes. Ultimately, I helped build some basic architecture for data collection and provided suggestions for targeting customers based on behavior and demographic data.
 
 
