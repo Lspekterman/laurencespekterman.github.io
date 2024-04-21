@@ -1,6 +1,6 @@
 # Marketing Analyst
 
-#### Technical Skills: Python, R, CSS, HTML
+#### Technical Skills: Python, R, PostgreSQL, CSS, HTML
 
 ## Education
 MBA   | Yale School of Management                (_May 2024_)
