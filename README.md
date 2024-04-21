@@ -11,7 +11,7 @@ BA    | The University of Maryland, College Park (_May 2017_)
 
 ## Professional Experience
 **Marketing Analyst @ Thriving Students Collective (_December 2023 - Present_)**
-- Secured +$300K contract renewal 3 months early by developing quarterly engagement plans for 9 school district clients, analyzing historical product usage data with meeting transcripts to create strategic offerings for contracts >$300K 
+-  Improved email click-through rate 50% analyzing customer behavioral data, creating predictive model for segmenting customers by deal probability, and designing dashboard providing tactical marketing recommendations
 
 **Finance Inter @ KIPP DC (_May 2023 - September 2023_)** 	
 - Revised initial cash receipts policy for $200M revenue nonprofit, preventing potential future fraud, secured approval from the CFO
