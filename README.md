@@ -22,26 +22,20 @@ BA    | The University of Maryland, College Park (_May 2017_)
 
 **Science Teacher @ Capital Preperatory School (_August 2020 - September 2022_)**
 
-## Projects
-### A
-[Data](https://www.mdpi.com/1424-8220/22/8/3048)
-Summary
+## Project
+### Marketing Analytics B2B SaaS
+[Data]([https://www.mdpi.com/1424-8220/22/8/3048](https://laurencespekterman.wixsite.com/laurence/marketing-and-analytics))
+An exploratory study of marketing activity at Thriving Students Collective an innovative startup in the EdTech space, providing professional development for school psychologists and special educators. My goal was to help understand how Thriving Students Collective can use data to improve its email marketing processes. Ultimately, I helped build some basic architecture for data collection and provided suggestions for targeting customers based on behavior and demographic data.
 
-
-### B
-[Data](https://www.mdpi.com/1424-8220/22/11/4240)
-Summary
 
 ## About
-Currently seeking a position in data analytics for a collaborative, fast-paced, and challenging environment. I like solving problems using a data driven approach.
+Currently seeking a position in marketing analytics in a collaborative and fast-paced environment. I like solving problems using a data driven approach. I earned my MBA with a concentration in Data Analytics and Strategy at The Yale School of Management in May 2024. I've earned my MS Ed in Education Science from Johns Hopkins. I also have a BA from the University of Maryland, College Park.
 
-I earned my MBA with a focus in Data Analytics at The Yale School of Management in May 2024. I earned my MS Ed in Education Science from Johns Hopkins. I also have a BA from the University of Maryland, College Park.
+My professional interests focus broadly on the intersection of data based decision making and education. I enjoy using new tools to develop strategic marketing models and recomendations for LTV, Segmentation, and Marketing ROI.
 
-My professional interests focus broadly on the application of data based decision making in the education and social sector. I am also interested in the relationship between data and marketing strategy (i.e., LTV, Segmentation, Marketing ROI).
+Outside of work, I enjoy training for a marathons and watching sports journalism.
 
-When not running analyses, I can usually be found training for a marathon or watching reality TV.
-
-Contact me
+Contact me:
 laurencespekterman@gmail.com
 
 
